@@ -27,7 +27,7 @@ Before running this project, you will need to download the Google News Word2Vec 
 To solve the *Semantle* puzzle:
 1. Run the script:
     ```bash
-    python semantle_solver.py
+    python main.py
     ```
 2. Enter two words and record them alongside their similarities to the target word.
 3. The solver will suggest words based on semantic similarity.
