@@ -29,7 +29,7 @@ To solve the *Semantle* puzzle:
     ```bash
     python semantle_solver.py
     ```
-2. Enter the target word you’re trying to guess.
+2. Enter two words and record them alongside their similarities to the target word.
 3. The solver will suggest words based on semantic similarity.
 
 ## Performance
