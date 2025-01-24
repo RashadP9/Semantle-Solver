@@ -16,7 +16,7 @@ Before running this project, you will need to download the Google News Word2Vec 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/semantle-solver.git
+    git clone https://github.com/RashadP9/Semantle-Solver.git
     ```
 2. Navigate to the project folder:
     ```bash
